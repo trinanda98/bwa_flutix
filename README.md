@@ -1,6 +1,6 @@
 # bwa_flutix
 
-A new Flutter project.
+Build With Angga Full-Stack Flutter Developer class's project repo.
 
 ## Getting Started
 
